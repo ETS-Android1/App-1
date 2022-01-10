@@ -9,12 +9,9 @@ Often teachers find themselves technologically overwhelmed when it comes to hand
 <b> Proposed Solution : </b>
 
 This project proposes an interactive Quizzing system to help the students generate interest in mundane tests and learn their test better. The fun UI helps the students answer the quiz in a more confident way while making it easier for the teacher to grade as well. 
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/y80hPMwH/1.jpg">
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/PqtDMPWW/2.jpg">
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/rFXNryPJ/3.jpg">
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/LXgjJGkw/4.jpg">
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/g0nZ717j/5.jpg">
-<img width="559" alt="sampleimages" src="https://i.postimg.cc/jqzJBHMH/6.jpg">
+<img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/y80hPMwH/1.jpg"><img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/PqtDMPWW/2.jpg"><img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/rFXNryPJ/3.jpg">
+
+<img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/LXgjJGkw/4.jpg"><img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/g0nZ717j/5.jpg"><img width="150" height="150" alt="sampleimages" src="https://i.postimg.cc/jqzJBHMH/6.jpg">
     	  	
 <b> Functionality & Concepts used : </b>
 
